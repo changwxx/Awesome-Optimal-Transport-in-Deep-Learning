@@ -12,6 +12,7 @@
   - [Books](#books)
   - [Libraries](#libraries)
 - [Papers](#papers)
+  - [Survey](#survey)
   - [Theory](#theory)
   - [Domain Adaptation](#domain-adaptation)
   - [Clustering/Self-Supervised Learning](#clusteringself-supervised-learning)
