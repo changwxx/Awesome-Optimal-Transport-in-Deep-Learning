@@ -41,6 +41,10 @@
 
 
 # Papers
+## Survey
+* [arXiv 2305] Earth Movers in The Big Data Era: A Review of Optimal Transport in Machine Learning [[pdf]](https://arxiv.org/abs/2305.05080) [[page]](https://github.com/abdelwahed/OT_for_big_data)
+* [arXiv 2306] Recent Advances in Optimal Transport for Machine Learning [[pdf]](https://arxiv.org/abs/2306.16156)
+
 ## Theory
 * [NIPS 2013] Sinkhorn Distances: Lightspeed Computation of Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper/2013/file/af21d0c97db2e27e13572cbf59eb343d-Paper.pdf)
 * [SIAM Journal on Scientific Computing 2015] Iterative Bregman Projections for Regularized Transportation Problems [[pdf]](https://arxiv.org/pdf/1412.5154.pdf)
