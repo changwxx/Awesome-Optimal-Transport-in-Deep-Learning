@@ -289,6 +289,9 @@ Neural Optimal Transport. [[Code]](https://github.com/milenagazdieva/ExtremalNeu
 * [CVPR 2023] Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Optimal_Transport_Minimization_Crowd_Localization_on_Density_Maps_for_Semi-Supervised_CVPR_2023_paper.pdf) [[code]](https://github.com/Elin24/OT-M)
 * [ACM MM 2023] DAOT: Domain-Agnostically Aligned Optimal Transport for Domain-Adaptive Crowd Counting [[pdf]](https://arxiv.org/pdf/2308.05311.pdf) [[code]](https://github.com/HopooLinZ/DAOT/)
 
+**Person ReID**
+* [CVPR 2021] Group-aware Label Transfer for Domain Adaptive Person Re-identification
+* [ECCV 2022] Optimal Transport for Label-Efficient Visible-Infrared Person Re-Identification
   
 **Others**
 * [ACM MM 2022] Weakly-Supervised Temporal Action Alignment Driven by Unbalanced Spectral Fused Gromov-Wasserstein Distance
@@ -310,3 +313,4 @@ Neural Optimal Transport. [[Code]](https://github.com/milenagazdieva/ExtremalNeu
 * [AAAI 2020] Sequence Generation with Optimal-Transport-Enhanced Reinforcement Learning
 * [CVPR 2020] Hierarchical Optimal Transport for Document Representation
 * [ACL 2021 best] Vocabulary learning via optimal transport for neural machine translation
+* [ACL 2022] Transferring Knowledge via Neighborhood-Aware Optimal Transport for Low-Resource Hate Speech Detection
