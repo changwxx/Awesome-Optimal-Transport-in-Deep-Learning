@@ -110,6 +110,7 @@ TODO:
 * [NIPS 2020] Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
 * [NeurIPS 2022] Wasserstein K-means for clustering probability distributions
 * [AAAI 2024] Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport
+* [ICLR 2024] P^2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering [[pdf]](https://arxiv.org/abs/2401.09266) [[code]](https://github.com/rhfeiyang/PPOT)
 
 **Novel Class Discovery**
 * [ICCV 2021] A unified objective for novel class discovery
@@ -140,6 +141,7 @@ TODO:
 * [NeurIPS 2023] Relative Entropic Optimal Transport: a (Prior-aware) Matching Perspective to (Unbalanced) Classification
 * [NeurIPS 2023] Enhancing Minority Classes by Mixing: An Adaptative Optimal Transport Approach for Long-tailed Classification
 * [IJCV 2023] An Optimal Transport View of Class-Imbalanced Visual Recognition
+* [ICLR 2024] P^2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering [[pdf]](https://arxiv.org/abs/2401.09266) [[code]](https://github.com/rhfeiyang/PPOT)
 
 
 ### Positive-Unlabeled Learning
@@ -152,18 +154,18 @@ TODO:
 ### Out-of-Distribution Detection/Open Set Recognition
 * [ICCV 2023] FedPD: Federated Open Set Recognition with Parameter Disentanglement [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_FedPD_Federated_Open_Set_Recognition_with_Parameter_Disentanglement_ICCV_2023_paper.pdf)
 * [CVPR 2023] Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection [[pdf]](http://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Uncertainty-Aware_Optimal_Transport_for_Semantically_Coherent_Out-of-Distribution_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/LuFan31/ET-OOD)
-* [NeurIPS 2023] Characterizing Out-of-Distribution Error
-via Optimal Transport [[pdf]](https://arxiv.org/pdf/2305.15640.pdf) [[code]](https://github.com/luyuzhe111/COT)
+* [NeurIPS 2023] Characterizing Out-of-Distribution Error via Optimal Transport [[pdf]](https://arxiv.org/pdf/2305.15640.pdf) [[code]](https://github.com/luyuzhe111/COT)
 
 ### Federated Learning
-* [NeurIPS 2020] Model Fusion via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf) [[code]](https://github.com/sidak/otfusion)
 * [NeurIPS 2020] Robust Federated Learning: The Case of Affine Distribution Shifts [[pdf]](https://proceedings.neurips.cc/paper/2020/file/f5e536083a438cec5b64a4954abc17f1-Paper.pdf)
 * [ICML 2022] Orchestra: Unsupervised Federated Learning via Globally Consistent Clustering [[pdf]](https://arxiv.org/pdf/2205.11506.pdf)
 * [ICCV 2023] FedPD: Federated Open Set Recognition with Parameter Disentanglement [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_FedPD_Federated_Open_Set_Recognition_with_Parameter_Disentanglement_ICCV_2023_paper.pdf)
-* [arXiv 2301] Decentralized Entropic Optimal Transport for
-Privacy-preserving Distributed Distribution Comparison [[pdf]](https://arxiv.org/pdf/2301.12065)
+* [arXiv 2301] Decentralized Entropic Optimal Transport for Privacy-preserving Distributed Distribution Comparison [[pdf]](https://arxiv.org/pdf/2301.12065)
+* [ICLR 2024] Federated Wasserstein Distance
 
-
+### Model Fusion
+* [NeurIPS 2020] Model Fusion via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf) [[code]](https://github.com/sidak/otfusion)
+* [ICLR 2024] Transformer Fusion with Optimal Transport
 
 ### Others
 * [WACV 2021] Zero-Shot Recognition via Optimal Transport
@@ -173,8 +175,7 @@ Privacy-preserving Distributed Distribution Comparison [[pdf]](https://arxiv.org
 
 ## Graph Learning
 * [NeurIPS 2022] Template based Graph Neural Network with Optimal Transport Distances
-* [NeurIPS 2022] OTKGE: Multi-modal Knowledge Graph Embeddings
-via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf)
+* [NeurIPS 2022] OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf)
 * [NeurIPS 2022] Certifying Robust Graph Classification under Orthogonal Gromov-Wasserstein Threats
 * [NeurIPS 2023] Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications
 
@@ -184,12 +185,12 @@ via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2
 * [ICML 2020] Graph optimal transport for cross-domain alignment
 * [ECCV 2020] UNITER: UNiversal Image-Text Representation Learning
 * [NeurIPS 2022] Keypoint-Guided Optimal Transport with Applications in Heterogeneous Domain Adaptation 
-* [NeurIPS 2022] OTKGE: Multi-modal Knowledge Graph Embeddings
-via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf)
+* [NeurIPS 2022] OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf)
 * [ICLR 2023 Spotlight] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models
 * [ICCV 2023] Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction
 * [NeurIPS 2023] Extremal Domain Translation with Neural Optimal Transport
-
+* [ICLR 2024] Bridging Vision and Language Spaces with Assignment Prediction
+* [ICLR 2024] Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation
 
 ## Generative Modeling
 #### GAN
@@ -205,7 +206,9 @@ via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2
 * [CVPR 2019] Max-Sliced Wasserstein Distance and Its Use for GANs. [[Code]]() [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Max-Sliced_Wasserstein_Distance_and_Its_Use_for_GANs_CVPR_2019_paper.pdf)
 * [ICCV 2019] Wasserstein GAN With Quadratic Transport Cost. [[Code]]() [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Wasserstein_GAN_With_Quadratic_Transport_Cost_ICCV_2019_paper.html)
 * [NeurIPS 2019] Multi-marginal Wasserstein GAN. [[Code]](https://github.com/caojiezhang/MWGAN) [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf)
-
+* [ICLR 2024] Analyzing and Improving OT-based Adversarial Networks
+* [ICLR 2024] SAN: Inducing Metrizability of GAN with Discriminative Normalized Linear Layer
+  
 #### Diffusion Model
 * [NeurIPS 2021] Score-based generative neural networks for large-scale optimal transport. [[Code]](https://github.com/mdnls/scones) [[pdf]](https://openreview.net/forum?id=PPzV1H4atM4)
 * [NeurIPS 2022] Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance. [[Code]](https://github.com/UW-Madison-Lee-Lab/score-wasserstein) [[pdf]](https://openreview.net/pdf?id=oPzICxVFqVM)
@@ -216,6 +219,7 @@ via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2
 * [NeurIPS 2023] Formulating Discrete Probability Flow Through Optimal Transport. [[Code]](https://github.com/PangzeCheung/Discrete-Probability-Flow) [[pdf]](https://arxiv.org/abs/2311.03886)
 * [ICLR 2023] Dual Diffusion Implicit Bridges for Image-to-Image Translation. [[Code]](https://github.com/suxuann/ddib) [[pdf]](https://arxiv.org/abs/2203.08382)
 * [ICLR 2023] Understanding DDPM Latent Codes Through Optimal Transport. [[Code]]() [[pdf]](https://openreview.net/forum?id=6PIrhAx1j4i)
+* [ICLR 2024] Transport meets Variational Inference: Controlled Monte Carlo Diffusions
 
 
 #### Schrödinger Bridge
@@ -248,18 +252,16 @@ A Continuous Wasserstein-2 Benchmark [[Code]](https://github.com/iamalexkorotin/
 * [ICLR 2023] Kernel Neural Optimal Transport. [[Code]](https://github.com/iamalexkorotin/KernelNeuralOptimalTransport) [[pdf]](https://openreview.net/forum?id=Zuc_MHtUma4)
 * [Arxiv 2023] Building the Bridge of Schrödinger:
 A Continuous Entropic Optimal Transport Benchmark. [[Code]](https://github.com/ngushchin/EntropicOTBenchmark) [[pdf]](https://arxiv.org/pdf/2306.10161.pdf)
-* [Arxiv 2022] Neural Optimal Transport with General Cost Functionals. [[Code]]() [[pdf]](https://arxiv.org/abs/2205.15403)
-* [Arxiv 2023] Energy-guided Entropic Neural Optimal Transport. [[Code]]() [[pdf]](https://arxiv.org/abs/2304.06094)
-* [NeurIPS 2023] Generative Modeling through the Semi-dual
-Formulation of Unbalanced Optimal Transport. [[Code]](https://github.com/Jae-Moo/UOTM) [[pdf]](https://arxiv.org/pdf/2305.14777.pdf)
-* [NeurIPS 2023] Extremal Domain Translation with
-Neural Optimal Transport. [[Code]](https://github.com/milenagazdieva/ExtremalNeuralOptimalTransport) [[pdf]](https://arxiv.org/pdf/2301.12874.pdf)
+* [NeurIPS 2023] Generative Modeling through the Semi-dual Formulation of Unbalanced Optimal Transport. [[Code]](https://github.com/Jae-Moo/UOTM) [[pdf]](https://arxiv.org/pdf/2305.14777.pdf)
+* [NeurIPS 2023] Extremal Domain Translation with Neural Optimal Transport. [[Code]](https://github.com/milenagazdieva/ExtremalNeuralOptimalTransport) [[pdf]](https://arxiv.org/pdf/2301.12874.pdf)
 * [Arxiv 2023] Neural Gromov-Wasserstein Optimal Transport. [[Code]]() [[pdf]](https://arxiv.org/pdf/2303.05978.pdf)
-* [Arxiv 2023] Light Schrödinger Bridge. [[Code]](https://github.com/ngushchin/LightSB) [[pdf]](https://arxiv.org/abs/2310.01174)
 * [Arxiv 2023] Neural Gromov-Wasserstein Optimal Transport. [[Code]]() [[pdf]](https://arxiv.org/pdf/2303.05978.pdf)
 * [Arxiv 2023] ANALYZING AND IMPROVING OT-BASED ADVERSARIAL NETWORKS. [[Code]]() [[pdf]](https://arxiv.org/pdf/2310.02611.pdf)
 * [NeurIPS 2023 Oral] Entropic Neural Optimal Transport via Diffusion Processes. [[Code]](https://github.com/ngushchin/EntropicNeuralOptimalTransport) [[pdf]](https://arxiv.org/abs/2211.01156)
- 
+* [ICLR 2024] Neural Optimal Transport with General Cost Functionals [[pdf]](https://arxiv.org/abs/2205.15403)
+* [ICLR 2024] Energy-guided Entropic Neural Optimal Transport [[pdf]](https://arxiv.org/abs/2304.06094)
+* [ICLR 2024] Light Schrödinger Bridge. [[Code]](https://github.com/ngushchin/LightSB) [[pdf]](https://arxiv.org/abs/2310.01174)
+* [ICLR 2024] Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation
 
 ## Reinforcement Learning
 * [ICML 2022] Curriculum reinforcement learning via constrained optimal transport
