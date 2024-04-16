@@ -38,6 +38,7 @@ TODO:
       - [Normalizing Flow Model](#normalizing-flow-model)
       - [Neural Optimal Transport](#neural-optimal-transport)
   - [Reinforcement Learning](#reinforcement-learning)
+  - [Imitation Learning](#imitation-learning)
   - [Computer Vision Tasks](#computer-vision-tasks)
     - [2D CV Tasks](#2d-cv-tasks)
     - [3D CV Tasks](#3d-cv-tasks)
