@@ -106,31 +106,31 @@ TODO:
 * [CVPR 2023] MOT: Masked Optimal Transport for Partial Domain Adaptation [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.pdf)
   
 ### Clustering/Self-Supervised Learning
-* [arXiv 2019] Differentiable Deep Clustering with Cluster Size Constraints
-* [ICLR 2020] Self-labelling via simultaneous clustering and representation learning
-* [NIPS 2020] Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
-* [NeurIPS 2022] Wasserstein K-means for clustering probability distributions
-* [AAAI 2024] Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport[[pdf]](https://arxiv.org/pdf/2402.18411v1.pdf)[[code]](https://github.com/HCVLAB/ProtoOT)
+* [arXiv 2019] Differentiable Deep Clustering with Cluster Size Constraints[[pdf]](https://arxiv.org/pdf/1910.09036.pdf)
+* [ICLR 2020] Self-labelling via simultaneous clustering and representation learning[[pdf]](https://openreview.net/pdf?id=Hyx-jyBFPr)
+* [NIPS 2020] Unsupervised Learning of Visual Features by Contrasting Cluster Assignments[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2020/file/70feb62b69f16e0238f741fab228fec2-Paper.pdf)
+* [NeurIPS 2022] Wasserstein K-means for clustering probability distributions[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4a1d69d1f64c6b6df105b15984ca527a-Paper-Conference.pdf)
+* [AAAI 2024] Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport[[pdf]](https://arxiv.org/pdf/2402.18411v1.pdf) [[code]](https://github.com/HCVLAB/ProtoOT)
 * [ICLR 2024] P^2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering [[pdf]](https://arxiv.org/abs/2401.09266) [[code]](https://github.com/rhfeiyang/PPOT)
 
 **Novel Class Discovery**
-* [ICCV 2021] A unified objective for novel class discovery
-* [TMLR 2023] Novel class discovery for long-tailed recognition
+* [ICCV 2021] A unified objective for novel class discovery[[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.pdf) [[code]](https://github.com/DonkeyShot21/UNO)
+* [TMLR 2023] Novel class discovery for long-tailed recognition[[pdf]](https://arxiv.org/pdf/2308.02989.pdf) [[code]](https://github.com/kleinzcy/NCDLR)
 
 
 
 ### Semi-Supervised Learning
-* [IJCAI 2018] Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation
-* [ECCV 2020] Transporting labels via hierarchical optimal transport for semi-supervised learning
-* [ICML 2021] Sinkhorn label allocation: Semi-supervised classification via annealed self-training
-* [CVPR 2021] Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised Image Classification
+* [IJCAI 2018] Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation[[pdf]](https://www.ijcai.org/Proceedings/2018/0412.pdf)
+* [ECCV 2020] Transporting labels via hierarchical optimal transport for semi-supervised learning[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490494.pdf)
+* [ICML 2021] Sinkhorn label allocation: Semi-supervised classification via annealed self-training[[pdf]](https://proceedings.mlr.press/v139/tai21a/tai21a.pdf)
+* [CVPR 2021] Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised Image Classification[[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Taherkhani_Self-Supervised_Wasserstein_Pseudo-Labeling_for_Semi-Supervised_Image_Classification_CVPR_2021_paper.pdf)
 * [arXiv 2310] OTMatch: Improving Semi-Supervised Learning with Optimal Transport [[pdf]](https://arxiv.org/pdf/2310.17455.pdf)
   
 ### Label Refinery
-* [ICASSP 2022] OT cleaner: Label correction as optimal transport
-* [CVPR 2023] OT-Filter: An Optimal Transport Filter for Learning With Noisy Labels
-* [NeurIPS 2023] CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels
-* [CVPR 2021] Group-aware Label Transfer for Domain Adaptive Person Re-identification
+* [CVPR 2021] Group-aware Label Transfer for Domain Adaptive Person Re-identification[[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf) [[code]](https://github.com/JDAI-CV/fast-reid)
+* [ICASSP 2022] OT cleaner: Label correction as optimal transport[[pdf]](https://chengtan9907.github.io/assets/publications/icassp22_otcleaner.pdf)
+* [CVPR 2023] OT-Filter: An Optimal Transport Filter for Learning With Noisy Labels[[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_OT-Filter_An_Optimal_Transport_Filter_for_Learning_With_Noisy_Labels_CVPR_2023_paper.pdf)
+* [NeurIPS 2023] CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b0da24d136f46bfaee78e8da907127e-Paper-Conference.pdf) [[code]](https://github.com/changwxx/CSOT-for-LNL)
 
 ### Class-Imbalanced/Long-Tailed Learning
 * [AAAI 2018] Label Distribution Learning by Optimal Transport
@@ -276,12 +276,11 @@ A Continuous Entropic Optimal Transport Benchmark. [[Code]](https://github.com/n
 * [NeurIPS 2023] Wasserstein Gradient Flows for Optimizing Gaussian Mixture Policies
 
 ## Imitation Learning
-* [ICLR 2022] Cross-Domain Imitation Learning via Optimal Transport
-* [NeurIPS 2022 Workshop] Optimal Transport for Offline Imitation Learning
-* [ICLR 2023] Primal Wasserstein Imitation Learning
-* [ICLR 2023] Optimal Transport for Offline Imitation Learning
-* [arXiv 2310] Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning
-* [arXiv 2402] Align Your Intents: Offline Imitation Learning via Optimal Transport
+* [ICLR 2021] Primal Wasserstein Imitation Learning[[pdf]](https://openreview.net/pdf?id=TtYSU29zgR)
+* [ICLR 2022] Cross-Domain Imitation Learning via Optimal Transport[[pdf]](https://openreview.net/pdf?id=xP3cPq2hQC) [[video]](https://arnaudfickinger.github.io/gwil/)
+* [ICLR 2023] Optimal Transport for Offline Imitation Learning [[pdf]](https://openreview.net/pdf?id=MhuFzFsrfvH) [[code]](https://github.com/ethanluoyc/optimal_transport_reward)
+* [NeurIPS Workshop 2023] Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning[[pdf]](https://openreview.net/pdf?id=L7c0hEWO2m)
+* [arXiv 2402] Align Your Intents: Offline Imitation Learning via Optimal Transport[[pdf]](https://arxiv.org/pdf/2402.13037v1.pdf)
 
 ## Computer Vision Tasks
 
