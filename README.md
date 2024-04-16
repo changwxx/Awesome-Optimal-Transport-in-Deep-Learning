@@ -109,7 +109,7 @@ TODO:
 * [ICLR 2020] Self-labelling via simultaneous clustering and representation learning
 * [NIPS 2020] Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
 * [NeurIPS 2022] Wasserstein K-means for clustering probability distributions
-* [AAAI 2024] Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport
+* [AAAI 2024] Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport[[pdf]](https://arxiv.org/pdf/2402.18411v1.pdf)[[code]](https://github.com/HCVLAB/ProtoOT)
 * [ICLR 2024] P^2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering [[pdf]](https://arxiv.org/abs/2401.09266) [[code]](https://github.com/rhfeiyang/PPOT)
 
 **Novel Class Discovery**
@@ -142,6 +142,9 @@ TODO:
 * [NeurIPS 2023] Enhancing Minority Classes by Mixing: An Adaptative Optimal Transport Approach for Long-tailed Classification
 * [IJCV 2023] An Optimal Transport View of Class-Imbalanced Visual Recognition
 * [ICLR 2024] P^2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering [[pdf]](https://arxiv.org/abs/2401.09266) [[code]](https://github.com/rhfeiyang/PPOT)
+* [arXiv 2404] SP2OT: Semantic-Regularized Progressive
+Partial Optimal Transport for Imbalanced
+Clustering [[pdf]] (https://arxiv.org/pdf/2404.03446.pdf)
 
 
 ### Positive-Unlabeled Learning
@@ -162,6 +165,7 @@ TODO:
 * [ICCV 2023] FedPD: Federated Open Set Recognition with Parameter Disentanglement [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_FedPD_Federated_Open_Set_Recognition_with_Parameter_Disentanglement_ICCV_2023_paper.pdf)
 * [arXiv 2301] Decentralized Entropic Optimal Transport for Privacy-preserving Distributed Distribution Comparison [[pdf]](https://arxiv.org/pdf/2301.12065)
 * [ICLR 2024] Federated Wasserstein Distance
+* [CVPR 2024] Global and Local Prompts Cooperation via Optimal Transport for Federated Learning [[pdf]](https://arxiv.org/pdf/2403.00041.pdf) [[code]](https://github.com/HongxiaLee/FedOTP)
 
 ### Model Fusion
 * [NeurIPS 2020] Model Fusion via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf) [[code]](https://github.com/sidak/otfusion)
@@ -270,6 +274,13 @@ A Continuous Entropic Optimal Transport Benchmark. [[Code]](https://github.com/n
 * [NeurIPS 2023] Accelerating Motion Planning via Optimal Transport
 * [NeurIPS 2023] Wasserstein Gradient Flows for Optimizing Gaussian Mixture Policies
 
+## Imitation Learning
+* [ICLR 2022] Cross-Domain Imitation Learning via Optimal Transport
+* [NeurIPS 2022 Workshop] Optimal Transport for Offline Imitation Learning
+* [ICLR 2023] Primal Wasserstein Imitation Learning
+* [ICLR 2023] Optimal Transport for Offline Imitation Learning
+* [arXiv 2310] Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning
+* [arXiv 2402] Align Your Intents: Offline Imitation Learning via Optimal Transport
 
 ## Computer Vision Tasks
 
