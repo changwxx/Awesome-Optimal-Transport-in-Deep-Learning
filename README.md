@@ -133,15 +133,15 @@ TODO:
 * [NeurIPS 2023] CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b0da24d136f46bfaee78e8da907127e-Paper-Conference.pdf) [[code]](https://github.com/changwxx/CSOT-for-LNL)
 
 ### Class-Imbalanced/Long-Tailed Learning
-* [AAAI 2018] Label Distribution Learning by Optimal Transport
-* [CVPR 2022] SAR: Self-adaptive refinement on pseudo labels for multiclass-imbalanced semi-supervised learning
-* [ICLR 2022] Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix
-* [NeurIPS 2022] SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning
-* [NeurIPS 2022] Learning to re-weight examples with optimal transport for imbalanced classification
-* [TMLR 2023] Novel class discovery for long-tailed recognition
-* [NeurIPS 2023] Relative Entropic Optimal Transport: a (Prior-aware) Matching Perspective to (Unbalanced) Classification
-* [NeurIPS 2023] Enhancing Minority Classes by Mixing: An Adaptative Optimal Transport Approach for Long-tailed Classification
-* [IJCV 2023] An Optimal Transport View of Class-Imbalanced Visual Recognition
+* [AAAI 2018] Label Distribution Learning by Optimal Transport[[pdf]](https://dl.acm.org/doi/pdf/10.5555/3504035.3504587)
+* [CVPR workshop 2022] SAR: Self-adaptive refinement on pseudo labels for multiclass-imbalanced semi-supervised learning[[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Lai_SaR_Self-Adaptive_Refinement_on_Pseudo_Labels_for_Multiclass-Imbalanced_Semi-Supervised_Learning_CVPRW_2022_paper.pdf)
+* [ICLR 2022] Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix[[pdf]](https://openreview.net/pdf?id=t98k9ePQQpn)
+* [NeurIPS 2022] SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/357a0a771bf65ee07926d6af41b75030-Paper-Conference.pdf) [[code]](https://github.com/hbzju/SoLar)
+* [NeurIPS 2022] Learning to re-weight examples with optimal transport for imbalanced classification[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a39a9aceda771cded859ae7560530e09-Paper-Conference.pdf) [[code]](https://github.com/DandanGuo1993/reweight-imbalance-classification-with-OT)
+* [TMLR 2023] Novel class discovery for long-tailed recognition[[pdf]](https://openreview.net/pdf?id=ey5b7kODvK) [[code]](https://github.com/kleinzcy/NCDLR)
+* [NeurIPS 2023] Relative Entropic Optimal Transport: a (Prior-aware) Matching Perspective to (Unbalanced) Classification[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/4621451c25a7aa175dc00e5dd4a243a3-Paper-Conference.pdf)
+* [NeurIPS 2023] Enhancing Minority Classes by Mixing: An Adaptative Optimal Transport Approach for Long-tailed Classification[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/bdabb5d4262bcfb6a1d529d690a6c82b-Paper-Conference.pdf) [[code]](https://github.com/JintongGao/Enhancing-Minority-Classes-by-Mixing)
+* [IJCV 2023] An Optimal Transport View of Class-Imbalanced Visual Recognition[[pdf]](https://link.springer.com/article/10.1007/s11263-023-01831-9)
 * [ICLR 2024] P^2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering [[pdf]](https://arxiv.org/abs/2401.09266) [[code]](https://github.com/rhfeiyang/PPOT)
 * [arXiv 2404] SP2OT: Semantic-Regularized Progressive
 Partial Optimal Transport for Imbalanced
@@ -149,10 +149,10 @@ Clustering [[pdf]] (https://arxiv.org/pdf/2404.03446.pdf)
 
 
 ### Positive-Unlabeled Learning
-* [NeurIPS 2020] Partial optimal tranport with applications on positive-unlabeled learning
-* [NeurIPS 2020] Partial Gromov-Wasserstein with Applications on Positive-Unlabeled Learning
-* [IJCAI 2022] Posistive-Unlabeled Learning via Optimal Transport and Margin Distribution
-* [ICLR 2023] Computing all Optimal Partial Transports
+* [NeurIPS 2020] Partial optimal tranport with applications on positive-unlabeled learning[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2020/file/1e6e25d952a0d639b676ee20d0519ee2-Paper.pdf)
+* [NeurIPS 2020] Partial Gromov-Wasserstein with Applications on Positive-Unlabeled Learning[[pdf]](https://www.researchgate.net/profile/Mokhtar-Z-Alaya/publication/339374372_Partial_Gromov-Wasserstein_with_Applications_on_Positive-Unlabeled_Learning/links/5e54ff65a6fdccbeba010197/Partial-Gromov-Wasserstein-with-Applications-on-Positive-Unlabeled-Learning.pdf) [[code]](https://github.com/lchapel/partial-GW-for-PU)
+* [IJCAI 2022] Posistive-Unlabeled Learning via Optimal Transport and Margin Distribution[[pdf]](https://www.ijcai.org/proceedings/2022/0393.pdf)
+* [ICLR 2023] Computing all Optimal Partial Transports[[pdf]](https://openreview.net/pdf?id=gwcQajoXNF)
 
 
 ### Out-of-Distribution Detection/Open Set Recognition
@@ -165,37 +165,37 @@ Clustering [[pdf]] (https://arxiv.org/pdf/2404.03446.pdf)
 * [ICML 2022] Orchestra: Unsupervised Federated Learning via Globally Consistent Clustering [[pdf]](https://arxiv.org/pdf/2205.11506.pdf)
 * [ICCV 2023] FedPD: Federated Open Set Recognition with Parameter Disentanglement [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_FedPD_Federated_Open_Set_Recognition_with_Parameter_Disentanglement_ICCV_2023_paper.pdf)
 * [arXiv 2301] Decentralized Entropic Optimal Transport for Privacy-preserving Distributed Distribution Comparison [[pdf]](https://arxiv.org/pdf/2301.12065)
-* [ICLR 2024] Federated Wasserstein Distance
+* [ICLR 2024] Federated Wasserstein Distance[[pdf]](https://openreview.net/pdf?id=rsg1mvUahT)
 * [CVPR 2024] Global and Local Prompts Cooperation via Optimal Transport for Federated Learning [[pdf]](https://arxiv.org/pdf/2403.00041.pdf) [[code]](https://github.com/HongxiaLee/FedOTP)
 
 ### Model Fusion
 * [NeurIPS 2020] Model Fusion via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf) [[code]](https://github.com/sidak/otfusion)
-* [ICLR 2024] Transformer Fusion with Optimal Transport
+* [ICLR 2024] Transformer Fusion with Optimal Transport[[pdf]](https://openreview.net/pdf?id=LjeqMvQpen) [[code]](https://github.com/graldij/transformer-fusion)
 
 ### Others
-* [WACV 2021] Zero-Shot Recognition via Optimal Transport
-* [NeurIPS 2023] Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources
-* [NeurIPS 2022] Adaptive Distribution Calibration for Few-Shot Learning with Hierarchical Optimal Transport 
-* [arXiv 2311] Transport with Support: Data-Conditional Diffusion Bridges
+* [WACV 2021] Zero-Shot Recognition via Optimal Transport[[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Zero-Shot_Recognition_via_Optimal_Transport_WACV_2021_paper.pdf)
+* [NeurIPS 2023] Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c142c14699223f7417cad706fd6f652e-Paper-Conference.pdf)[[code]](https://github.com/ruoxi-jia-group/projektor)
+* [NeurIPS 2022] Adaptive Distribution Calibration for Few-Shot Learning with Hierarchical Optimal Transport[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2e19dab94882bc95ed094c4399cfda02-Paper-Conference.pdf)[[code]](https://github.com/DandanGuo1993/Adaptive-Distribution-Calibration-for-Few-Shot-Learning-with-Hierarchical-Optimal-Transport)
+* [TMLR 2023] Transport with Support: Data-Conditional Diffusion Bridges[[pdf]](https://openreview.net/pdf?id=Mbc58EzF5q)
 
 ## Graph Learning
-* [NeurIPS 2022] Template based Graph Neural Network with Optimal Transport Distances
+* [NeurIPS 2022] Template based Graph Neural Network with Optimal Transport Distances[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4d3525bc60ba1adc72336c0392d3d902-Paper-Conference.pdf)
 * [NeurIPS 2022] OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf)
-* [NeurIPS 2022] Certifying Robust Graph Classification under Orthogonal Gromov-Wasserstein Threats
-* [NeurIPS 2023] Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications
+* [NeurIPS 2022] Certifying Robust Graph Classification under Orthogonal Gromov-Wasserstein Threats[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/0b6b00f384aa33fec1f3d6bcf9550224-Paper-Conference.pdf)
+* [NeurIPS 2023] Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/3173c427cb4ed2d5eaab029c17f221ae-Paper-Conference.pdf)
 
 
 ## Cross-Modal Learning
-* [IJCAI 2018] Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation
-* [ICML 2020] Graph optimal transport for cross-domain alignment
-* [ECCV 2020] UNITER: UNiversal Image-Text Representation Learning
-* [NeurIPS 2022] Keypoint-Guided Optimal Transport with Applications in Heterogeneous Domain Adaptation 
+* [IJCAI 2018] Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation[[pdf]](https://www.ijcai.org/Proceedings/2018/0412.pdf)
+* [ICML 2020] Graph optimal transport for cross-domain alignment[[pdf]](https://proceedings.mlr.press/v119/chen20e/chen20e.pdf) [[code]](https://github.com/LiqunChen0606/Graph-Optimal-Transport)
+* [ECCV 2020] UNITER: UNiversal Image-Text Representation Learning[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750103.pdf) [[code]](https://github.com/ChenRocks/UNITER)
+* [NeurIPS 2022] Keypoint-Guided Optimal Transport with Applications in Heterogeneous Domain Adaptation[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/6091c5644d73637e3cccdcab52a7031f-Paper-Conference.pdf) [[code]](https://github.com/XJTU-XGU/KPG-RL)
 * [NeurIPS 2022] OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf)
-* [ICLR 2023 Spotlight] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models
-* [ICCV 2023] Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction
-* [NeurIPS 2023] Extremal Domain Translation with Neural Optimal Transport
-* [ICLR 2024] Bridging Vision and Language Spaces with Assignment Prediction
-* [ICLR 2024] Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation
+* [ICLR 2023 Spotlight] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models[[pdf]](https://openreview.net/pdf?id=zqwryBoXYnh) [[code]](https://github.com/CHENGY12/PLOT)
+* [ICCV 2023] Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multimodal_Optimal_Transport-based_Co-Attention_Transformer_with_Global_Structure_Consistency_for_ICCV_2023_paper.pdf) [[code]](https://github.com/Innse/MOTCat)
+* [NeurIPS 2023] Extremal Domain Translation with Neural Optimal Transport[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/7eed2822411dc37b3768ae04561caafa-Paper-Conference.pdf) [[code]](https://github.com/milenagazdieva/ExtremalNeuralOptimalTransport)
+* [ICLR 2024] Bridging Vision and Language Spaces with Assignment Prediction[[pdf]](https://openreview.net/pdf?id=lK2V2E2MNv)
+* [ICLR 2024] Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation[[pdf]](https://openreview.net/pdf?id=l60EM8md3t) [[code]](https://github.com/v-manhlt3/m-LTM-Audio-Text-Retrieval)
 
 ## Generative Modeling
 #### GAN
@@ -211,8 +211,8 @@ Clustering [[pdf]] (https://arxiv.org/pdf/2404.03446.pdf)
 * [CVPR 2019] Max-Sliced Wasserstein Distance and Its Use for GANs. [[Code]]() [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Max-Sliced_Wasserstein_Distance_and_Its_Use_for_GANs_CVPR_2019_paper.pdf)
 * [ICCV 2019] Wasserstein GAN With Quadratic Transport Cost. [[Code]]() [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Wasserstein_GAN_With_Quadratic_Transport_Cost_ICCV_2019_paper.html)
 * [NeurIPS 2019] Multi-marginal Wasserstein GAN. [[Code]](https://github.com/caojiezhang/MWGAN) [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf)
-* [ICLR 2024] Analyzing and Improving OT-based Adversarial Networks
-* [ICLR 2024] SAN: Inducing Metrizability of GAN with Discriminative Normalized Linear Layer
+* [ICLR 2024] Analyzing and Improving OT-based Adversarial Networks[[pdf]](https://openreview.net/pdf?id=jODehvtTDx)
+* [ICLR 2024] SAN: Inducing Metrizability of GAN with Discriminative Normalized Linear Layer[[pdf]](https://openreview.net/pdf?id=eiF7TU1E8E) [[code]](https://github.com/sony/san)
   
 #### Diffusion Model
 * [NeurIPS 2021] Score-based generative neural networks for large-scale optimal transport. [[Code]](https://github.com/mdnls/scones) [[pdf]](https://openreview.net/forum?id=PPzV1H4atM4)
@@ -224,7 +224,7 @@ Clustering [[pdf]] (https://arxiv.org/pdf/2404.03446.pdf)
 * [NeurIPS 2023] Formulating Discrete Probability Flow Through Optimal Transport. [[Code]](https://github.com/PangzeCheung/Discrete-Probability-Flow) [[pdf]](https://arxiv.org/abs/2311.03886)
 * [ICLR 2023] Dual Diffusion Implicit Bridges for Image-to-Image Translation. [[Code]](https://github.com/suxuann/ddib) [[pdf]](https://arxiv.org/abs/2203.08382)
 * [ICLR 2023] Understanding DDPM Latent Codes Through Optimal Transport. [[Code]]() [[pdf]](https://openreview.net/forum?id=6PIrhAx1j4i)
-* [ICLR 2024] Transport meets Variational Inference: Controlled Monte Carlo Diffusions
+* [ICLR 2024] Transport meets Variational Inference: Controlled Monte Carlo Diffusions[[pdf]](https://openreview.net/pdf?id=PP1rudnxiW)
 
 
 #### Schrödinger Bridge
@@ -266,14 +266,14 @@ A Continuous Entropic Optimal Transport Benchmark. [[Code]](https://github.com/n
 * [ICLR 2024] Neural Optimal Transport with General Cost Functionals [[pdf]](https://arxiv.org/abs/2205.15403)
 * [ICLR 2024] Energy-guided Entropic Neural Optimal Transport [[pdf]](https://arxiv.org/abs/2304.06094)
 * [ICLR 2024] Light Schrödinger Bridge. [[Code]](https://github.com/ngushchin/LightSB) [[pdf]](https://arxiv.org/abs/2310.01174)
-* [ICLR 2024] Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation
+* [ICLR 2024] Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation[[pdf]](https://openreview.net/pdf?id=2UnCj3jeao)
 
 ## Reinforcement Learning
-* [ICML 2022] Curriculum reinforcement learning via constrained optimal transport
-* [NeurIPS 2022] Curriculum Reinforcement Learning using Optimal Transport via Gradual Domain Adaptation 
-* [NeurIPS 2022] Trust Region Policy Optimization with Optimal Transport Discrepancies: Duality and Algorithm for Continuous Actions
-* [NeurIPS 2023] Accelerating Motion Planning via Optimal Transport
-* [NeurIPS 2023] Wasserstein Gradient Flows for Optimizing Gaussian Mixture Policies
+* [ICML 2022] Curriculum reinforcement learning via constrained optimal transport [[Code]](https://github.com/psclklnk/currot) [[pdf]](https://proceedings.mlr.press/v162/klink22a/klink22a.pdf) 
+* [NeurIPS 2022] Curriculum Reinforcement Learning using Optimal Transport via Gradual Domain Adaptation[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4556f5398bd2c61bd7500e306b4e560a-Paper-Conference.pdf)
+* [NeurIPS 2022] Trust Region Policy Optimization with Optimal Transport Discrepancies: Duality and Algorithm for Continuous Actions[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/7d3298e48220b289318b533a848ea069-Paper-Conference.pdf)
+* [NeurIPS 2023] Accelerating Motion Planning via Optimal Transport[[Code]](https://github.com/anindex/mpot) [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f7a94134f1c726796c6f81fb946e489d-Paper-Conference.pdf)
+* [NeurIPS 2023] Wasserstein Gradient Flows for Optimizing Gaussian Mixture Policies[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/429b5216a4d08850c586fbf809e17877-Paper-Conference.pdf)
 
 ## Imitation Learning
 * [ICLR 2021] Primal Wasserstein Imitation Learning[[pdf]](https://openreview.net/pdf?id=TtYSU29zgR)
@@ -286,13 +286,13 @@ A Continuous Entropic Optimal Transport Benchmark. [[Code]](https://github.com/n
 
 ### 2D CV Tasks
 **Object Detection**
-* [CVPR 2021] OTA: Optimal Transport Assignment for Object Detection
-* [CVPR 2023] Unbalanced Optimal Transport: A Unified Framework for Object Detection
+* [CVPR 2021] OTA: Optimal Transport Assignment for Object Detection[[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_OTA_Optimal_Transport_Assignment_for_Object_Detection_CVPR_2021_paper.pdf) [[code]](https://github.com/Megvii-BaseDetection/OTA)
+* [CVPR 2023] Unbalanced Optimal Transport: A Unified Framework for Object Detection[[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/De_Plaen_Unbalanced_Optimal_Transport_A_Unified_Framework_for_Object_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/hdeplaen/uotod)
 
 **Semantic Segmentation**
-* [ICCV 2021] Deep transport network for unsupervised video object segmentation
-* [ICLR 2023] Modeling Multimodal Aleatoric Uncertainty in Segmentation with Mixture of Stochastic Experts
-* [ICCV 2023] Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport
+* [ICCV 2021] Deep transport network for unsupervised video object segmentation[[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Deep_Transport_Network_for_Unsupervised_Video_Object_Segmentation_ICCV_2021_paper.pdf)
+* [ICLR 2023] Modeling Multimodal Aleatoric Uncertainty in Segmentation with Mixture of Stochastic Experts[[pdf]](https://openreview.net/pdf?id=KE_wJD2RK4) [[code]](https://github.com/gaozhitong/MoSE-AUSeg)
+* [ICCV 2023] Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Point2Mask_Point-supervised_Panoptic_Segmentation_via_Optimal_Transport_ICCV_2023_paper.pdf) [[code]](https://github.com/LiWentomng/Point2Mask)
 
 **Crowd Counting**
 * [NeruIPS 2020] Distribution Matching for Crowd Counting [[pdf]](https://proceedings.neurips.cc/paper/2020/file/118bd558033a1016fcc82560c65cca5f-Paper.pdf) [[code]](https://github.com/cvlab-stonybrook/DM-Count)
@@ -303,27 +303,27 @@ A Continuous Entropic Optimal Transport Benchmark. [[Code]](https://github.com/n
 * [ACM MM 2023] DAOT: Domain-Agnostically Aligned Optimal Transport for Domain-Adaptive Crowd Counting [[pdf]](https://arxiv.org/pdf/2308.05311.pdf) [[code]](https://github.com/HopooLinZ/DAOT/)
 
 **Person ReID**
-* [CVPR 2021] Group-aware Label Transfer for Domain Adaptive Person Re-identification
-* [ECCV 2022] Optimal Transport for Label-Efficient Visible-Infrared Person Re-Identification
+* [CVPR 2021] Group-aware Label Transfer for Domain Adaptive Person Re-identification[[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf) [[code]](https://github.com/zkcys001/UDAStrongBaseline)
+* [ECCV 2022] Optimal Transport for Label-Efficient Visible-Infrared Person Re-Identification[[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840091.pdf) [[code]](https://github.com/wjm-wjm/OTLA-ReID)
   
 **Others**
-* [ACM MM 2022] Weakly-Supervised Temporal Action Alignment Driven by Unbalanced Spectral Fused Gromov-Wasserstein Distance
-* [NeurIPS 2022] Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition 
-* [NeurIPS 2022] Aligning individual brains with fused unbalanced Gromov Wasserstein
-* [CVPR 2022] Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions
-* [NeurIPS 2023] Deep Optimal Transport: A Practical Algorithm for Photo-realistic Image Restoration
+* [ACM MM 2022] Weakly-Supervised Temporal Action Alignment Driven by Unbalanced Spectral Fused Gromov-Wasserstein Distance[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548067)
+* [NeurIPS 2022] Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/7715137660f3e38785eb8d46261e89da-Paper-Conference.pdf) [[code]](https://github.com/kdhht2334/ELIM_FER)
+* [NeurIPS 2022] Aligning individual brains with fused unbalanced Gromov Wasserstein[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/8906cac4ca58dcaf17e97a0486ad57ca-Paper-Conference.pdf)
+* [CVPR 2023] Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions[[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Knowledge_Distillation_for_6D_Pose_Estimation_by_Aligning_Distributions_of_CVPR_2023_paper.pdf) [[code]](https://github.com/GUOShuxuan/kd-6d-pose-adlp)
+* [NeurIPS 2023] Deep Optimal Transport: A Practical Algorithm for Photo-realistic Image Restoration[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c281c5a17ad2e55e1ac1ca825071f991-Paper-Conference.pdf) [[code]](https://github.com/theoad/dot-dmax)
 
 ### 3D CV Tasks
-* [CVPR 2019] Learning with batch-wise optimal transport loss for 3d shape recognition
-* [CVPR 2020] Synchronizing Probability Measures on Rotations via Optimal Transport
-* [CVPR 2021] Self-point-flow: Self-supervised scene flow estimation from point clouds with optimal transport and random walk
-* [NeurIPS 2021] Accurate Point Cloud Registration with Robust Optimal Transport
-* [ICCV 2023] DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport
+* [CVPR 2019] Learning with batch-wise optimal transport loss for 3d shape recognition[[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Learning_With_Batch-Wise_Optimal_Transport_Loss_for_3D_Shape_Recognition_CVPR_2019_paper.pdf)
+* [CVPR 2020] Synchronizing Probability Measures on Rotations via Optimal Transport[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Birdal_Synchronizing_Probability_Measures_on_Rotations_via_Optimal_Transport_CVPR_2020_paper.pdf)
+* [CVPR 2021] Self-point-flow: Self-supervised scene flow estimation from point clouds with optimal transport and random walk[[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Self-Point-Flow_Self-Supervised_Scene_Flow_Estimation_From_Point_Clouds_With_Optimal_CVPR_2021_paper.pdf)
+* [NeurIPS 2021] Accurate Point Cloud Registration with Robust Optimal Transport[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/2b0f658cbffd284984fb11d90254081f-Paper.pdf) [[code]](https://github.com/uncbiag/robot)
+* [ICCV workshop 2023] DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport[[pdf]](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/papers/Ali_DELO_Deep_Evidential_LiDAR_Odometry_Using_Partial_Optimal_Transport_ICCVW_2023_paper.pdf)
 
 ## NLP Tasks
-* [ICLR 2019] Improving Sequence-to-Sequence Learning via Optimal Transport
-* [IJCAI 2020] Evaluating Natural Language Generation via Unbalanced Optimal Transport
-* [AAAI 2020] Sequence Generation with Optimal-Transport-Enhanced Reinforcement Learning
-* [CVPR 2020] Hierarchical Optimal Transport for Document Representation
-* [ACL 2021 best] Vocabulary learning via optimal transport for neural machine translation
-* [ACL 2022] Transferring Knowledge via Neighborhood-Aware Optimal Transport for Low-Resource Hate Speech Detection
+* [ICLR 2019] Improving Sequence-to-Sequence Learning via Optimal Transport[[pdf]](https://openreview.net/pdf?id=S1xtAjR5tX) [[code]](https://github.com/ymgw55/OT-Seq2Seq-PyTorch)
+* [IJCAI 2020] Evaluating Natural Language Generation via Unbalanced Optimal Transport[[pdf]](https://www.ijcai.org/proceedings/2020/0516.pdf)
+* [AAAI 2020] Sequence Generation with Optimal-Transport-Enhanced Reinforcement Learning[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6249)
+* [CVPR 2020] Hierarchical Optimal Transport for Document Representation[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/8b5040a8a5baf3e0e67386c2e3a9b903-Paper.pdf) [[code]](https://github.com/IBM/HOTT)
+* [ACL 2021 best] Vocabulary learning via optimal transport for neural machine translation[[pdf]](https://aclanthology.org/2021.acl-long.571.pdf) [[code]](https://github.com/Jingjing-NLP/VOLT)
+* [ACL 2022] Transferring Knowledge via Neighborhood-Aware Optimal Transport for Low-Resource Hate Speech Detection[[pdf]](https://aclanthology.org/2022.aacl-main.35.pdf)
