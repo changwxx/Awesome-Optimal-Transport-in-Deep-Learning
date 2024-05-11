@@ -125,6 +125,7 @@ TODO:
 * [ICML 2021] Sinkhorn label allocation: Semi-supervised classification via annealed self-training[[pdf]](https://proceedings.mlr.press/v139/tai21a/tai21a.pdf)
 * [CVPR 2021] Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised Image Classification[[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Taherkhani_Self-Supervised_Wasserstein_Pseudo-Labeling_for_Semi-Supervised_Image_Classification_CVPR_2021_paper.pdf)
 * [arXiv 2310] OTMatch: Improving Semi-Supervised Learning with Optimal Transport [[pdf]](https://arxiv.org/pdf/2310.17455.pdf)
+* [ICCV 2023] Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf) [[code]](https://github.com/XiangboYin/DPIS_SSVI-ReID)
   
 ### Label Refinery
 * [CVPR 2021] Group-aware Label Transfer for Domain Adaptive Person Re-identification[[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf) [[code]](https://github.com/JDAI-CV/fast-reid)
@@ -143,9 +144,7 @@ TODO:
 * [NeurIPS 2023] Enhancing Minority Classes by Mixing: An Adaptative Optimal Transport Approach for Long-tailed Classification[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/bdabb5d4262bcfb6a1d529d690a6c82b-Paper-Conference.pdf) [[code]](https://github.com/JintongGao/Enhancing-Minority-Classes-by-Mixing)
 * [IJCV 2023] An Optimal Transport View of Class-Imbalanced Visual Recognition[[pdf]](https://link.springer.com/article/10.1007/s11263-023-01831-9)
 * [ICLR 2024] P^2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering [[pdf]](https://arxiv.org/abs/2401.09266) [[code]](https://github.com/rhfeiyang/PPOT)
-* [arXiv 2404] SP2OT: Semantic-Regularized Progressive
-Partial Optimal Transport for Imbalanced
-Clustering [[pdf]] (https://arxiv.org/pdf/2404.03446.pdf)
+* [arXiv 2404] SP^2OT: Semantic-Regularized Progressive Partial Optimal Transport for Imbalanced Clustering [[pdf]](https://arxiv.org/pdf/2404.03446.pdf) [[code]](https://github.com/rhfeiyang/SPPOT)
 
 
 ### Positive-Unlabeled Learning
@@ -247,7 +246,7 @@ Clustering [[pdf]] (https://arxiv.org/pdf/2404.03446.pdf)
 * [ICLR 2023] Building Normalizing Flows with Stochastic Interpolants. [[Code]](https://github.com/atong01/conditional-flow-matching) [[pdf]](https://arxiv.org/abs/2210.02747)
 * [ICML 2023] Multisample Flow Matching: Straightening Flows with Minibatch Couplings. [[Code]](https://github.com/atong01/conditional-flow-matching) [[pdf]](https://openreview.net/pdf?id=mxkGDxWOHS)
 * [ICLR 2023] Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow. [[Code]](https://github.com/atong01/conditional-flow-matching) [[pdf]](https://arxiv.org/abs/2209.03003) 
-[JMLR 2023] Diffusion Bridge Mixture Transports, Schrödinger Bridge Problems and Generative Modeling. [[Code]]() [[pdf]](https://arxiv.org/pdf/2304.00917.pdf)
+* [JMLR 2023] Diffusion Bridge Mixture Transports, Schrödinger Bridge Problems and Generative Modeling. [[Code]]() [[pdf]](https://arxiv.org/pdf/2304.00917.pdf)
 
 #### Neural Optimal Transport
 * [NeurIPS 2021] Do Neural Optimal Transport Solvers Work?
